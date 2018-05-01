@@ -1,0 +1,15 @@
+#pageWrapper{
+ 	width: 1000px; 
+  margin: 0 auto;
+}
+#header{
+	height: 300px;
+    text-align: center;
+  line-height: 300px;
+  font-size: 40px;
+  background: rgba(0,0,0,0.1);
+}
+.card-footer>p{
+	display: inline-block;
+  padding: 0 15px;
+}
